@@ -1,0 +1,128 @@
+[
+    {
+        "filename": "js.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "epicentral.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "aten.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "lullabot.html",
+        "attr": {
+            "data-state": "state--image",
+            "data-background": "resources/img/modjs_Diaganol-Single.svg"
+        }
+    },
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "colorado-springs-js.html",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "colorado-springs-tech.html",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "denver-devs.html",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "js.html",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "browser.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "node.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "robots.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "vr.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "resources.html",
+        "attr": {
+            "data-state": "state--gold",
+            "data-background": "resources/img/modjs_Diaganol-Gold.svg"
+        }
+    },
+    {
+        "filename": "books.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "twitter.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "podcasts.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "conferences.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "online-training.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "bootcamps.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    }
+]
