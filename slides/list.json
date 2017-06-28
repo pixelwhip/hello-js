@@ -7,13 +7,6 @@
         }
     },
     {
-        "filename": "epicentral.html",
-        "attr": {
-            "data-state": "state--image",
-            "data-background": "resources/img/modjs_Diaganol-Single.svg"
-        }
-    },
-    {
         "filename": "aten.html",
         "attr": {
             "data-state": "state--image",
@@ -21,11 +14,11 @@
         }
     },
     {
-        "filename": "lullabot.html",
-        "attr": {
-            "data-state": "state--image",
-            "data-background": "resources/img/modjs_Diaganol-Single.svg"
-        }
+      "filename": "epicentral.html",
+      "attr": {
+        "data-state": "state--image",
+        "data-background": "resources/img/modjs_Diaganol-Single.svg"
+      }
     },
     {
         "filename": "index.md",
@@ -66,6 +59,12 @@
     },
     {
         "filename": "node.md",
+        "attr": {
+            "data-background": "resources/img/modjs_Diaganol.svg"
+        }
+    },
+    {
+        "filename": "native.md",
         "attr": {
             "data-background": "resources/img/modjs_Diaganol.svg"
         }
